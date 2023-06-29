@@ -4,7 +4,7 @@
   "description": "orgnge common utils for javascript",
   "main": "index.js",
   "scripts": {
-    "prepublishOnly": "np",
+    "prepublishOnly": "np --yolo --no-publish",
     "test": "test"
   },
   "engines": {
