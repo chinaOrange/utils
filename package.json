@@ -4,7 +4,12 @@
   "description": "orgnge common utils for javascript",
   "main": "index.js",
   "scripts": {
+    "prepublishOnly": "np",
     "test": "test"
+  },
+  "engines": {
+    "node": ">=8.10.3 <12.13.0",
+    "npm": ">=6.9.0"
   },
   "author": "orange",
   "license": "ISC",
