@@ -1,0 +1,11 @@
+{
+  "name": "orange.utils",
+  "version": "1.0.0",
+  "description": "orgnge common utils for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "orange",
+  "license": "ISC"
+}
