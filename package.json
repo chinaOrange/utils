@@ -2,18 +2,17 @@
   "name": "orange.common.gj",
   "version": "1.1.1",
   "description": "orgnge common utils for javascript",
-  "main": "index.js",
+  "main": "dist/cjs",
+  "module": "dist/esm",
   "scripts": {
-    "prepublishOnly": "np --yolo --no-publish",
-    "test": "test"
-  },
-  "engines": {
-    "node": ">=8.10.3 <12.13.0",
-    "npm": ">=6.9.0"
+    "prepublishOnly": "npm run compile && np --yolo --no-publish",
+    "test": "test",
+    "compile": "father build"
   },
   "author": "orange",
   "license": "ISC",
   "dependencies": {
+    "father": "^4.2.3",
     "np": "^8.0.4"
   }
 }
