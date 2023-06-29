@@ -1,5 +1,5 @@
 {
-  "name": "orange.utils",
+  "name": "orange.common.gj",
   "version": "1.0.0",
   "description": "orgnge common utils for javascript",
   "main": "index.js",
