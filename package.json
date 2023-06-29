@@ -1,6 +1,6 @@
 {
   "name": "orange.common.gj",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "orgnge common utils for javascript",
   "main": "index.js",
   "scripts": {
