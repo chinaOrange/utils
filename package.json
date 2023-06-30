@@ -9,6 +9,10 @@
     "test": "test",
     "compile": "father build"
   },
+  "files": [
+    "dist",
+    "compiled"
+  ],
   "author": "orange",
   "license": "ISC",
   "dependencies": {
