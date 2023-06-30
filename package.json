@@ -1,6 +1,6 @@
 {
   "name": "orange.common.gj",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "orgnge common utils for javascript",
   "main": "dist/cjs",
   "module": "dist/esm",
